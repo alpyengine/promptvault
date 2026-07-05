@@ -4,22 +4,27 @@ Professional prompts for financial research using GPT, Claude and Gemini.
 
 ## Features
 
-- Macro analysis
-- Asset classification
+- Institutional financial research workflow
+- Executive investment dashboard
+- Evidence-based reasoning
+- Finviz asset classification
 - TradingView watchlists
-- Pine Script v6 generation
-- Strategy detection
-- Institutional research workflow
-- Evidence-based analysis
-- Final consistency audit
+- Trading strategy detection
+- Pine Script v6 code generation
+- Market factor and institutional flow analysis
+- Source integrity validation
+- On-demand PDF report generation
+- Standardized PDF naming convention
+- Final consistency and audit checks
 
 ## Versions
 
-|Version|Description|
-|--------|-----------|
-|V1|Initial financial analysis prompt|
-|V2|Research workflow and validation|
-|V3|Institutional investment research framework|
+| Version | Description |
+|---------|-------------|
+| V1 | Initial financial analysis prompt |
+| V2 | Structured research workflow and validation |
+| V3 | Institutional investment research framework |
+| V4 | Source validation and on-demand PDF generation workflow |
 
 ## Compatible with
 

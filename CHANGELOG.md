@@ -8,6 +8,8 @@ The format follows Keep a Changelog and Semantic Versioning.
 
 ### Added
 
+- financial-analysis: prompt V5 series (V5.0 → V5.3) introducing the Script Brief
+  hand-off pipeline to the Pine Script Farm.
 - Future prompt collections.
 
 ---
